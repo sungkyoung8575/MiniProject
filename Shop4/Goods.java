@@ -9,7 +9,7 @@ public class Goods {
 	int pay = 0;
 	String time=null;
 	
-	//품목 수량 출력
+	//품목 수량 출력.
 	public void prt() {
 		System.out.println("---------------");
 		System.out.println(goodsName+"\t"+goodsNum+"개");
